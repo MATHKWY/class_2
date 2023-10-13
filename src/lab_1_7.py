@@ -84,3 +84,5 @@ record = b-a
 print("Sorted list by sort function")
 print(list4)
 print(record,"초")
+
+#수정완료 2023.10.13 금
