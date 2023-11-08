@@ -1,17 +1,17 @@
 # class_2
-## class_2
-### class_2
-* class_2
-  + class_2
-    - class_2
+## Opensource lec
+### project practice
+* create
+  + edit
+    - delete
 
-> class_2
-> >class_2
+> SSU_AI-X
+> >23
 
 
-    class_2
+  Soongsil univ.
 
 <hr/>
 
-_class_2
-__class_2
+_offer project
+__AR navigation
